@@ -1,4 +1,5 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+A background color chanding app that changes color of the background everytime user clicks on the button
 
 # Getting Started
 
